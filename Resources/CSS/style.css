@@ -29,3 +29,9 @@ h3{
 .Header{
   background-image: url("./../Images/Building.png");
 }
+#NewYork{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-image: url("./../Images/Building.png");
+}
