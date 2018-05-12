@@ -18,6 +18,12 @@ h3{
   font-size: 23px;
   font-weight: bold;
 }
+.footer{
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
 .Header{
   background-image: url("./../Images/Building.png");
 }
